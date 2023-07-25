@@ -20,14 +20,16 @@ Youtube Video: https://youtube.com/shorts/1uUObHdWfBU
 
 Youtube Video: https://youtube.com/shorts/jhseFbkENNs
 
-![alt text](https://github.com/mitsBhadeshiya/Flutter_menus/blob/main/Demo3/Screenshot_2023-07-14-16-15-36-721_com.example.navigation_drawer_demo.jpg?raw=true)
+<img src="https://github.com/mitsBhadeshiya/Flutter_menus/blob/main/Demo3/Screenshot_2023-07-14-16-15-36-721_com.example.navigation_drawer_demo.jpg?raw=true" width="300">
+
 
 
 4) Left menu with profile box animation
 
 Youtube Video: https://youtube.com/shorts/jzJjEwouSL0
 
-![alt text](https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo4/Screenshot_2023-07-14-16-15-24-965_com.example.navigation_drawer_demo.jpg)
+<img src="https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo4/Screenshot_2023-07-14-16-15-24-965_com.example.navigation_drawer_demo.jpg" width="300">
+
 
 
 
