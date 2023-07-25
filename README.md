@@ -10,6 +10,7 @@ Youtube Video URL for live: https://youtube.com/shorts/A1ORCod-pK0
 
 
 <table> 
+  <tr>
   <td> 2) Left menu with profile box animation
 
 Youtube Video: https://youtube.com/shorts/1uUObHdWfBU
@@ -22,6 +23,17 @@ Youtube Video: https://youtube.com/shorts/jhseFbkENNs
 
 <img src="https://github.com/mitsBhadeshiya/Flutter_menus/blob/main/Demo3/Screenshot_2023-07-14-16-15-36-721_com.example.navigation_drawer_demo.jpg?raw=true" width="300">
  </td>
+ </tr>
+ <tr>
+  <td>
+    4) Left menu with profile box animation
+
+Youtube Video: https://youtube.com/shorts/jzJjEwouSL0
+
+<img src="https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo4/Screenshot_2023-07-14-16-15-24-965_com.example.navigation_drawer_demo.jpg" width="300">
+  </td>   
+  <td></td>
+ </tr>
 </table>
 
 
@@ -29,11 +41,7 @@ Youtube Video: https://youtube.com/shorts/jhseFbkENNs
 
 
 
-4) Left menu with profile box animation
 
-Youtube Video: https://youtube.com/shorts/jzJjEwouSL0
-
-<img src="https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo4/Screenshot_2023-07-14-16-15-24-965_com.example.navigation_drawer_demo.jpg" width="300">
 
 
 
