@@ -13,7 +13,7 @@ Youtube Video URL for live: https://youtube.com/shorts/A1ORCod-pK0
 
 Youtube Video: https://youtube.com/shorts/1uUObHdWfBU
 
-<img src="[https://your-image-url.type](https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo2/Screenshot_2023-07-14-16-15-47-031_com.example.navigation_drawer_demo.jpg)" width="200">
+<img src="https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo2/Screenshot_2023-07-14-16-15-47-031_com.example.navigation_drawer_demo.jpg" width="200">
 
 ![alt text](https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo2/Screenshot_2023-07-14-16-15-47-031_com.example.navigation_drawer_demo.jpg | width=200)
 
