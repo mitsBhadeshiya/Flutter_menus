@@ -13,7 +13,8 @@ Exand and collapsable left menu using fullter
     <td> ![alt text](https://github.com/mitsBhadeshiya/Flutter_menus/blob/main/Demo1/Screenshot_2023-07-14-16-16-06-018_com.example.navigation_drawer_demo.jpg?raw=true) </td>
     <td>![alt text](https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo1/Screenshot_2023-07-14-16-16-06-018_com.example.navigation_drawer_demo.jpg) </td>
   </tr>
-  
 </table>
 
-![alt text](https://github.com/mitsBhadeshiya/Flutter_menus/blob/main/Demo1/Screenshot_2023-07-14-16-16-06-018_com.example.navigation_drawer_demo.jpg?raw=true)
+
+
+![alt text](https://raw.githubusercontent.com/mitsBhadeshiya/Flutter_menus/main/Demo1/Screenshot_2023-07-14-16-16-06-018_com.example.navigation_drawer_demo.jpg)
